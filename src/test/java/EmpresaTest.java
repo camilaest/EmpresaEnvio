@@ -58,14 +58,7 @@ public class EmpresaTest {
 
         listaAux.add(envio1);
 
-
-
         assertIterableEquals(listaAux,listaEnviosPesoMayor50);
 
-
-
     }
-
-
-
 }
